@@ -1,0 +1,5 @@
+/* esp32_devkitc_wroom.overlay */
+&uart2 {
+    status = "okay";
+    current-speed = <115200>;
+};

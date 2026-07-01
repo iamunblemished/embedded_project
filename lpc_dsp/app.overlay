@@ -1,0 +1,6 @@
+/* lpcxpresso55s69_cpu0.overlay */
+&flexcomm2 {
+    status = "okay";
+    compatible = "nxp,lpc-usart";
+    current-speed = <115200>;
+};
