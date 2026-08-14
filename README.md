@@ -80,7 +80,7 @@ $$M = \sqrt{q_1^2 + q_2^2 - q_1 q_2 \cdot \text{coeff}}$$
 
 ---
 
-## Author
+## Authors
 
 **Niranjan Narayan Devadiga**, **Pitta Ashwin** & **Vallabha Krishna**
 
