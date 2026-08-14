@@ -76,7 +76,7 @@ Frequency magnitudes are isolated using the **Goertzel Algorithm**, which acts a
 $$M = \sqrt{q_1^2 + q_2^2 - q_1 q_2 \cdot \text{coeff}}$$
 
 
-*(Where $\text{coeff} = 2\cos\left(\frac{2\pi k}{N}\right)$)*
+*(Where $$\text{coeff} = 2\cos\left(\frac{2\pi k}{N}\right)$)*
 
 ---
 
